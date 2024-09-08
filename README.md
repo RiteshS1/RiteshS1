@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **riteshs29122002@gmail.com**
 
-- ⚡ Fun fact **There's someone/something always watching us!.....👀**
+- ⚡ Fun fact **There's always someone/something watching over us!.....👀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
