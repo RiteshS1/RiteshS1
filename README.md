@@ -20,8 +20,9 @@
 <a href="https://www.leetcode.com/riteshsharma1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="riteshsharma1" height="30" width="40" /></a>
 </p>
 <br>
-[![An image of @riteshs1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/riteshs1)](https://holopin.io/@riteshs1)
 
+
+<img  alt="HOLOPIN" src="https://holopin.io/@riteshs1">
 <br>
 <h3 align="left">Languages and Tools:</h3>
 
