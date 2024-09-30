@@ -12,10 +12,7 @@
 
 - ⚡ Fun fact **There's always someone/something watching over us!.....👀**
 
-  <h2>Achivements</h2>
-
-  <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/GeNVjNBGQkSBadDodAnABA?identity__email=riteshs29122002%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/GeNVjNBGQkSBadDodAnABA/image"></a></blockquote>
-  
+  <h2>Achivements</h2>  
 
 [![An image of @riteshs1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/riteshs1)](https://holopin.io/@riteshs1)
 
