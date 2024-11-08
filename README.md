@@ -28,7 +28,7 @@
 
 <br>
 
-<h2>🏆Achivements</h2>  
+<h2>🏆Achievements</h2>  
 
 [![An image of @riteshs1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/riteshs1)](https://holopin.io/@riteshs1)
 
