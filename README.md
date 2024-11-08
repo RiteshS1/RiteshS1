@@ -15,6 +15,7 @@
 - 📫 Find me at **riteshs29122002@gmail.com** {for resume checkout my portfolio}
 
 
+<br>
 
 ## 🌐 Socials:
 
