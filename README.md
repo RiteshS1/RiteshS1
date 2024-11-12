@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on Full Stack projects
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Hemu21/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/RiteshS1/)
 
 - 📫 Find me at **riteshs29122002@gmail.com** {for resume checkout my portfolio}
 
