@@ -1,4 +1,5 @@
-<h1 align="center">Hii 👋, I'm <i>Ritesh Sharma</i></h1>
+<h1 align="center">Hii <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+, I'm <i>Ritesh Sharma</i></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Carattere&size=30&duration=4000&pause=1&color=6D32FF&background=ED9BFF00&width=435&lines=I'm+a+Full-Stack+Developer+!;I'm+a+Programmer+!;And+I'm+glad+you+are+here+%F0%9F%92%96)](https://git.io/typing-svg)
 
