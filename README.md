@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/RiteshS1/)
 
-- 📫 Find me at **riteshs29122002@gmail.com** {for resume checkout my portfolio}
+- 📫 Find me at **riteshs.connect@gmail.com** {for resume checkout my portfolio}
 
 
 <br>
