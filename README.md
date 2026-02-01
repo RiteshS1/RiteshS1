@@ -20,8 +20,9 @@
 
 ## 🌐 Socials:
 
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%2300759.svg?logo=website&logoColor=white)](https://riteshs.vercel.app/) -->
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300759.svg?logo=website&logoColor=white)](https://riteshs.vercel.app/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-sharma-8477a424a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/delphic_RS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-sharma-8477a424a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/delphic_RS)
 
 
 ## 💻 Tech Stack:
